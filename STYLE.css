@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: rgb(255, 151, 231);
+  color: white;
+}
+
+header {
+  color: white;
+  border: solid 5px color(srgb rgb(251, 10, 215));
+  background-color: rgb(255, 0, 162);
+  height: 80px;
+  display: inline-block;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.IMG {
+  background-color: rgb(255, 13, 190);
+  height: 200PX;
+  display: inline-flex;
+}
+
+.TEXTO {
+  display: inline-flex;
+  background-color: rgb(255, 162, 243);
+}
+
+.Sec2 {
+  height: 200px;
+  display: inline-flex;
+  justify-content: space-around;
+  background-color: rgb(240, 0, 208);
+  justify-content: center;
+}
+
+.SEC3 {
+  display: inline-flex;
+}
+
+.FOOTER {
+  justify-content: space-around;
+  background-color: rgb(255, 0, 187);
+}/*# sourceMappingURL=STYLE.css.map */
